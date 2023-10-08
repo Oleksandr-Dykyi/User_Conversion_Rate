@@ -24,4 +24,4 @@ Clicking on the block indicating the number of users who completed payments trig
 [Tableau Workbook Link](https://public.tableau.com/views/UserConversionRate/ConversionRate?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 #### Skills:
-Tableau, Business Intelligence (BI)
+Data Analysis · Business Intelligence (BI) · Tableau · Data Visualization
